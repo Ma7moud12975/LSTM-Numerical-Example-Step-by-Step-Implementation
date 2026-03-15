@@ -1,4 +1,3 @@
-https://media.istockphoto.com/id/2153161266/photo/neural-network-nodes-deep-learning-artificial-intelligence-machine-learning-model.jpg?s=612x612&w=0&k=20&c=DAhPs4gRLC6fvdobkqzeGsTWL3xiblKTnFmhuODHhcg=
 
 # LSTM Numerical Example — Step-by-Step Implementation
 
